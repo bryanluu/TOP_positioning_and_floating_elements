@@ -1,0 +1,15 @@
+/* Styles for TOP Positioning and Floating Elements Project */
+
+header {
+  border: 1px dashed red;
+}
+
+header .title-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.logo {
+  width: 400px;
+}

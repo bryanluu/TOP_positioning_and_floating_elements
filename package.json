@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bryanluu/TOP_positioning_and_floating_elements/issues"
   },
-  "homepage": "https://github.com/bryanluu/TOP_positioning_and_floating_elements#readme"
+  "homepage": "https://github.com/bryanluu/TOP_positioning_and_floating_elements#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0"
+  }
 }
