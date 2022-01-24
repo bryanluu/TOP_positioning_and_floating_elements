@@ -1,0 +1,19 @@
+{
+  "name": "top_positioning_and_floating_elements",
+  "version": "1.0.0",
+  "description": "Positioning and Floating Elements project submission for The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanluu/TOP_positioning_and_floating_elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanluu/TOP_positioning_and_floating_elements/issues"
+  },
+  "homepage": "https://github.com/bryanluu/TOP_positioning_and_floating_elements#readme"
+}
