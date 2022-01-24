@@ -11,5 +11,9 @@ header .title-bar {
 }
 
 .logo {
-  width: 400px;
+  width: 350 px;
+}
+
+img {
+  max-width: 90vw;
 }
